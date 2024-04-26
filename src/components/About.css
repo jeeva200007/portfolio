@@ -1,0 +1,14 @@
+.about-section{
+    margin-top: 50px;
+}
+
+.about{
+    margin: 20px 50px 20px 50px;
+    background-color: rgb(222, 218, 218);
+    padding: 27px;
+}
+
+.about article{
+    font-size: 1.1rem;
+
+}

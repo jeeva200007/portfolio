@@ -1,0 +1,48 @@
+.main-profile{
+    margin-bottom: 40px;
+}
+.main-profile h1{
+    text-align: center;
+}
+.position-name h3,h1,h2{
+    padding: 0;
+    margin: 10px;
+}
+.position-name{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+}
+.profile{
+    display: flex;
+    margin-top: 60px;
+    
+}
+
+.profile img{
+    height: 28%;
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    margin-left: 20%;
+    border: solid black;
+    border-radius: 100px;
+    
+    
+}
+
+.social-profile{
+    display: flex;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    right: 12%;
+    margin-top: 10px;
+}
+
+.social-profile img{
+    height: 30px;
+}

@@ -1,0 +1,51 @@
+.container{
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.project-items{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 0 30px;
+}
+.project-1{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.project-1 > img{
+    height: 45vh;
+    width: auto;
+    margin: 20px 0 0 50px;
+}
+.project-2 > img{
+    height: 45vh;
+    width: auto;
+    margin: 20px 0 0 50px;
+}
+.project-2{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.project-3 > img{
+    height: 45vh;
+    width: auto;
+    margin: 20px 0 0 50px;
+}
+.project-3{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.project-4 > img{
+    height: 45vh;
+    width: auto;
+    margin: 20px 0 0 50px;
+}
+.project-4{
+    text-align: center;
+    font-size: 1.2rem;
+}
